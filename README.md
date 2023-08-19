@@ -28,8 +28,8 @@ Website developer and member of the Iranian robotics team. 2 years of programmin
   <a href="https://github.com/Amir01dev">
     <img src="https://img.shields.io/badge/Website-www.github.com-blue?style=flat&logo=google-chrome" />
   </a>
-  <a href="https://t.me/Amir_robo/">
-    <img src="https://img.shields.io/badge/Telegram-@Amir_robo-blue?style=flat&logo=telegram" />
+  <a href="https://t.me/Amir01dev/">
+    <img src="https://img.shields.io/badge/Telegram-@Amir01dev-blue?style=flat&logo=telegram" />
   </a>
 </p>
 

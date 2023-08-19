@@ -13,7 +13,7 @@ Website developer and member of the Iranian robotics team. 2 years of programmin
 
 <br />
 
-<h2>Github Stats</h2>
+<h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/Amir01dev">
   <img src="https://github-readme-stats.vercel.app/api?username=Amir01dev&show_icons=true&theme=radical" />
